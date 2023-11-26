@@ -1,4 +1,4 @@
-> :warning use as backup -- prefer custom
+> :warning: use as backup -- prefer custom
 
 # AstroNvim User Configuration Example
 
