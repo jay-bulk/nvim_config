@@ -1,4 +1,4 @@
-> :warning: use as backup -- prefer custom -- prefer spacecim at that
+> :warning: use as backup -- prefer custom -- prefer spacevim at that
 > astronvim is trash imo
 
 # AstroNvim User Configuration Example
